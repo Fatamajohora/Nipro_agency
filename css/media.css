@@ -1,0 +1,429 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .dpdm {
+    width: 295px;
+    
+}
+   .dpdm[data-bs-popper] {
+    top: 45px;
+    left: -5px;
+    margin-top: 0;
+}
+.menu ul li a {
+  padding: 6px 0;
+}
+/*template*/
+.r_text h1 {
+    font-size: 14px;
+}
+.rc_padd {
+    text-align: center !important;
+}
+.r_btn a {
+    padding: 10px 38px;
+}
+/*profile*/
+.profile {
+    margin: 80px 0;
+}
+.prf_content {
+    padding: 40px 55px;
+    
+    }
+.prf_text {
+    text-align: center;
+}
+.prf_text h4 {
+    margin-top: 30px !important;
+}
+.prfp1 {
+    margin: 7px 0;
+   
+   }
+.prfp3 {
+    margin: 15px 0;
+
+}
+.prf_cntl_btn {
+    margin-top: 20px;
+    height: 70px;
+    writing-mode: horizontal-tb
+}
+.prf_cntl_btn button {
+    margin: 21px 43px;
+}
+/*contact*/
+.contact {
+    margin-bottom: 80px;
+}
+.cnt_content {
+    padding: 0 85px;
+}
+.cnt_top {
+    left: 60px;
+}
+.cnt_fn input {
+    width: 120%;
+}
+.cnt_ln input {
+    margin-top: 35px;
+    width: 120%;
+}
+.cnt_em input {
+    width: 120%;
+}
+.cnt_ta textarea {
+    width: 120%;
+}
+
+/*footer*/
+.ft_title {
+    margin-top: 10px;
+    text-align: center;
+}
+.ft_icon {
+    text-align: center;
+}
+
+.ft_icon ul li a i {
+    padding: 5px 5px;
+
+}
+.ftb_menu ul li a{
+   font-size: 14px;
+}
+.ftb_para p {
+    font-size: 14px;
+    text-align: center;
+    }
+.ftb_menu {
+    text-align: center;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	    .dpdm {
+    width: 295px;
+    
+}
+     
+   .dpdm[data-bs-popper] {
+    top: -12px;
+    left: 60px;
+    margin-top: 0;
+}
+.menu ul li a {
+  padding: 6px 0;
+}
+/*slider*/
+.slider_row{
+    justify-content: center;
+}
+.slider_item {
+    margin: 140px 0;
+}
+.b_slider {
+    text-align: center;
+}
+.slider_item h1 {
+
+    font-size: 35px;
+
+}
+.slider_item p {
+    margin: 30px 0 30px;
+    line-height: 35px;
+    word-spacing: 3px;
+}
+/*about*/
+.about {
+    margin: 90px 0 90px;
+}
+.about_btn {
+    margin-top: 25px;
+    text-align: center;
+}
+.about_title h1 {
+    margin-top: 20px !important;
+}
+.about_p1 {
+    line-height: 25px;
+    word-spacing: 1px;
+}
+.about_p2 {
+    line-height: 25px;
+    word-spacing: 2px;
+}
+/*template*/
+.r_text h1 {
+    font-size: 16px;
+}
+.r_btn a {
+    padding: 10px 38px;
+}
+/*profile*/
+.profile {
+    margin: 80px 0;
+}
+.prf_content {
+    padding: 40px 55px;
+    
+    }
+.prf_text {
+    text-align: center;
+}
+.prf_text h4 {
+    margin-top: 30px !important;
+}
+.prfp1 {
+    margin: 7px 0;
+   
+   }
+.prfp3 {
+    margin: 15px 0;
+
+}
+.prf_cntl_btn {
+    margin-top: 20px;
+    height: 70px;
+    writing-mode: horizontal-tb
+}
+.prf_cntl_btn button {
+    margin: 21px 98px;
+}
+/*contact*/
+.contact {
+    margin-bottom: 80px;
+}
+.cnt_content {
+    padding: 0 85px;
+}
+.cnt_top {
+    left: 182px;
+}
+/*footer*/
+.ft_title {
+    margin-top: 10px;
+    text-align: center;
+}
+.ft_icon {
+    text-align: center;
+}
+
+.ft_icon ul li a i {
+    padding: 5px 7px;
+
+}
+.ftb_menu ul li a{
+   font-size: 14px;
+}
+.ftb_para p {
+    text-align: center;
+    }
+.ftb_menu {
+    text-align: center;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+  .dpdm[data-bs-popper] {
+    top: -12px;
+    left: 60px;
+    margin-top: 0;
+}
+.menu ul li a {
+  padding: 10px 0;
+}
+/*slider*/
+.slider_row{
+    justify-content: center;
+}
+.slider_item {
+    margin: 140px 0;
+}
+.b_slider {
+    text-align: center;
+}
+.slider_item h1 {
+
+    font-size: 45px;
+
+}
+
+
+/*about*/
+.about {
+    margin: 90px 0 90px;
+}
+.about_btn {
+    margin-top: 25px;
+    text-align: center;
+}
+.about_title h1 {
+    margin-top: 20px !important;
+}
+.about_p1 {
+    line-height: 25px;
+    word-spacing: 1px;
+}
+.about_p2 {
+    line-height: 25px;
+    word-spacing: 2px;
+}
+/*template*/
+.r_text h1 {
+    font-size: 19px;
+}
+.r_btn a {
+    padding: 10px 38px;
+}
+/*profile*/
+.profile {
+    margin: 80px 0;
+}
+.prf_content {
+    padding: 40px 55px;
+    
+    }
+.prf_text {
+    text-align: center;
+}
+.prf_text h4 {
+    margin-top: 30px !important;
+}
+.prfp1 {
+    margin: 7px 0;
+   
+   }
+.prfp3 {
+    margin: 15px 0;
+
+}
+.prf_cntl_btn {
+    margin-top: 20px;
+    height: 70px;
+    writing-mode: horizontal-tb
+}
+.prf_cntl_btn button {
+    margin: 21px 140px;
+}
+/*contact*/
+.contact {
+    margin-bottom: 80px;
+}
+.cnt_content {
+    padding: 0 85px;
+}
+.cnt_top {
+    left: 260px;
+}
+/*footer*/
+.ft_title {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.ft_icon ul li a i {
+    padding: 5px 7px;
+
+}
+.ftb_menu ul li a{
+   font-size: 14px;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+     .dpdm[data-bs-popper] {
+        left: -320px;
+   
+}
+/*slide*/
+.c_title h2 {
+
+    font-size: 29px;
+}
+.about_p1 {
+    margin: 18px 0 10px;
+    line-height: 23px;
+    word-spacing: 0;
+}
+.about_p2 {
+    line-height: 23px;
+    word-spacing: 0;
+}
+.about_btn a {
+    margin-top: 22px;
+}
+.slider_item h1 {
+        font-size: 50px;
+
+}
+/*who work with us*/
+    .w_title h2 {
+        font-size: 28px;
+    }
+    .prc_btn a {
+    padding: 15px 42px;
+
+}
+/*template*/
+.r_text h1 {
+    padding-top: 15px;
+    font-size: 18px;
+}
+/*profile*/
+.prfp1 {
+    margin: 0px 0;
+}
+.prfp3 {
+    margin: 12px 0;
+    line-height: 23px;
+;
+}
+.prfp4 {
+    line-height: 23px;
+}
+.prf_cntl_btn {
+    height: 342px;
+}
+.prf_cntl_btn button {
+    margin: 55px 14px;
+}
+/*contact*/
+.cnt_top {
+
+    left: 395px;
+}
+
+/*footer*/
+.ft_title h1 {
+    text-align: center;
+}
+.ft_icon {
+    text-align: center;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px)  and (max-width: 1399.98px) {
+ .ft_title h1 {
+    text-align: center;
+}
+.ft_icon {
+    text-align: center;
+}
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+ .ft_title h1 {
+    text-align: center;
+}
+.ft_icon {
+    text-align: center;
+}
+}
